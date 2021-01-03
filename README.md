@@ -1,4 +1,4 @@
-# Informações Do Cartão com CSS e JavaScript
+# Informações Do Cartão com CSS, JavaScript e Bootstrap
 Link para visualizar: https://bit.ly/3n3sUhe
 <br>Obs.: falta ajustar a versão mobile.
 
